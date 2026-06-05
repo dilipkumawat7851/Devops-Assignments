@@ -1,1 +1,34 @@
 # Devops-Assignments
+
+## Linux Commands Assignment
+
+### Student Details
+Name: Dilip Kumawat
+
+### Tasks Completed
+
+1. Creating and Renaming Files/Directories
+2. Viewing File Contents
+3. Searching for Patterns
+4. Zipping and Unzipping
+5. Downloading Files
+6. Changing Permissions
+7. Working with Environment Variables
+
+### Commands Used
+
+- mkdir
+- cd
+- touch
+- mv
+- cat
+- head
+- tail
+- grep
+- zip
+- unzip
+- wget
+- chmod
+- export
+
+All commands were executed successfully and screenshots are included in the assignment document.
